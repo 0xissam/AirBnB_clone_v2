@@ -142,3 +142,5 @@ Usage: <class_name>.update(<_id>, <dictionary>)
 <br>
 
 my new content her
+
+Authors: AISSAM TAHIRI, OLUWADEMILADE ABATAN
